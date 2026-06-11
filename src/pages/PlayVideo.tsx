@@ -60,7 +60,7 @@ export function PlayVideo() {
   const playerInstance = useRef<any>(null);
 
   const randomUrls = [
-    'https://omg10.com/4/11101722',
+    'https://www.effectivecpmnetwork.com/knupuk7b?key=6e029bd4830a010bf15271ece631cf5a',
   ];
 
   useEffect(() => {
