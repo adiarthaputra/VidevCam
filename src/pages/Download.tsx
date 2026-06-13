@@ -5,7 +5,7 @@ export function Download() {
   const videoTitle = sessionStorage.getItem('videoTitle');
 
   const randomUrls = [
-    'https://omg10.com/4/11101722',
+    'https://splendid-garage.com/vVZTE9',
   ];
   
   const handleDownload = () => {
